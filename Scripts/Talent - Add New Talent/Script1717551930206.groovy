@@ -130,51 +130,51 @@ WebUI.setText(findTestObject('Object Repository/Record/input_Alamat_inputCity'),
 'Input Alamat'
 WebUI.setText(findTestObject('Object Repository/Record/textarea_Alamat_inputAddress'), Alamat)
 
-'Input Kemampuan Bahasa'
+//'Input Kemampuan Bahasa'
 //WebUI.focus(findTestObject('Object Repository/Record/a_Tambah Data'))
 //WebUI.takeScreenshot()
 //WebUI.click(findTestObject('Object Repository/Record/a_Tambah Data'))
-WebUI.click(findTestObject('Object Repository/Record/button_tambahbahasa'))
-
-WebUI.click(findTestObject('Object Repository/Record/div_(Anda belum mengisi)'))
-
-WebUI.setText(findTestObject('Object Repository/Record/input_Bahasa_inputLanguageName--1'), 'English')
-
-'Kemampuan Bahasa'
-WebUI.setText(findTestObject('Object Repository/Record/input_Bahasa_inputLanguageName--1'), KemampuanBahasa)
-//Kemampuan Writing
-if(Wiritng == 'Beginner')
-	{
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
-			'Benginner', true)
-	}
-else if(Wiritng == 'Intermediate')
-	{
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
-			'Intermediate', true)
-	}
-else if(Wiritng == 'Advance')
-	{
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
-			'Advance', true)
-	}
-else if(Wiritng == 'Fluent')
-	{
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
-			'FLuent', true)
-	}
-else
-	{
-		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
-			'Native', true)
-	}
-
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'), 
-    KemampuanBahasaReading, true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'), 
-    KemampuanBahasaSpeaking, true)
+//WebUI.click(findTestObject('Object Repository/Record/button_tambahbahasa'))
+//
+//WebUI.click(findTestObject('Object Repository/Record/div_(Anda belum mengisi)'))
+//
+//WebUI.setText(findTestObject('Object Repository/Record/input_Bahasa_inputLanguageName--1'), 'English')
+//
+//'Kemampuan Bahasa'
+//WebUI.setText(findTestObject('Object Repository/Record/input_Bahasa_inputLanguageName--1'), KemampuanBahasa)
+////Kemampuan Writing
+//if(Wiritng == 'Beginner')
+//	{
+//		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
+//			'Benginner', true)
+//	}
+//else if(Wiritng == 'Intermediate')
+//	{
+//		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
+//			'Intermediate', true)
+//	}
+//else if(Wiritng == 'Advance')
+//	{
+//		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
+//			'Advance', true)
+//	}
+//else if(Wiritng == 'Fluent')
+//	{
+//		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
+//			'FLuent', true)
+//	}
+//else
+//	{
+//		WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'),
+//			'Native', true)
+//	}
+//
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'), 
+//    KemampuanBahasaReading, true)
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Record/select_-- Pilih --BeginnerIntermediateAdvan_943818'), 
+//    KemampuanBahasaSpeaking, true)
 
 //WebUI.click(findTestObject('Object Repository/Record/i_Simpan Perubahan_fa fa-save'))
 //
