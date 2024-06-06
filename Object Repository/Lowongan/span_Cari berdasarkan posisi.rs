@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cari berdasarkan posisi</name>
+   <tag></tag>
+   <elementGuidId>21aeea2f-e7bd-4828-83ca-d1f1ffd5901c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-searchPosition-container']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Cari berdasarkan posisi&quot;i >> internal:text=&quot;Cari berdasarkan posisi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43dd62af-2f75-4bbf-8823-8464cb6d3ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>81b8ca68-7665-4472-89e9-9b251623f10d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cari berdasarkan posisi</value>
+      <webElementGuid>4f0d3cbf-dd99-4992-9dca-08090444422b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-searchPosition-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>2aaff88f-46f8-4fce-8109-4b9aaed2b0d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-searchPosition-container']/span</value>
+      <webElementGuid>d957772a-f3f3-4405-a1f3-ee15da5dfbe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari berdasarkan posisi'])[1]/following::span[5]</value>
+      <webElementGuid>18926149-0e88-4077-9df7-17df01a8e0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::span[5]</value>
+      <webElementGuid>c5edf491-76f6-4b30-ab25-7297c4e5af1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal berakhir'])[1]/preceding::span[3]</value>
+      <webElementGuid>6148b0cf-304b-4926-b9d7-2b9ae1d27647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terakhir diupdate'])[1]/preceding::span[3]</value>
+      <webElementGuid>bfe286ac-43f6-411b-99a1-abb3aebfc04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span/span</value>
+      <webElementGuid>e882a932-80c9-448e-906e-dc75330a78d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cari berdasarkan posisi' or . = 'Cari berdasarkan posisi')]</value>
+      <webElementGuid>e493e037-efb6-442c-9e6a-8924efc6be27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

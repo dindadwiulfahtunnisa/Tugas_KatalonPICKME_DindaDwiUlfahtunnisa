@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No Telepon_inputPhone</name>
+   <tag></tag>
+   <elementGuidId>a67e0352-9fd3-4b0b-ae42-8da5915e5423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputPhone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputPhone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputPhone</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>18e9bded-fe54-4d62-a028-1dbf99fc0709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>autocomplete_off_cv_phone</value>
+      <webElementGuid>96aa574b-9e03-4671-bc6c-9ca15fdd7f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputPhone</value>
+      <webElementGuid>c500c4fb-de02-4dfa-8275-e34ed85a349f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>e2020acd-cd85-47b6-9f41-fdfa4120b3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>6f0b1718-ddcb-473e-8a39-e9ecde779852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                                               if($(this).val() === ''){
+                                               $('#frame').contents().find('#txtPhone').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                               $('#txtPhone').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                               } else {
+                                               $('#frame').contents().find('#txtPhone').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                               $('#txtPhone').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                               } autoSave(); validateRequire($(this))</value>
+      <webElementGuid>15674168-d225-487a-bea1-49082de4a8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputPhone&quot;)</value>
+      <webElementGuid>8918f5cf-200e-4d26-8547-0098430ddd12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputPhone']</value>
+      <webElementGuid>a25c8eff-9dac-47c6-a9ac-40ca7b014fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalSection']/div[5]/div/input</value>
+      <webElementGuid>a4089273-280c-49c9-a04b-cce526366da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/input</value>
+      <webElementGuid>43a5f95a-3962-482a-8279-dec9d04f1cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputPhone' and @type = 'number']</value>
+      <webElementGuid>a6e8d0d8-e0e3-4fd4-a9d4-964a4cbe6c38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

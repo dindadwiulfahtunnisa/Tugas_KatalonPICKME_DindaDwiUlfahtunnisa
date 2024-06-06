@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Invalid User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c07fd091-f09f-424d-9005-a94350fedbe6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>003d97d4-f2c1-4875-bdd6-356f96ac124d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5fe00a7-0228-4852-b663-febb49842337</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data Login').getValue(1, 3)</defaultValue>
+      <description></description>
+      <id>003d97d4-f2c1-4875-bdd6-356f96ac124d</id>
+      <masked>false</masked>
+      <name>DataInvalidUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Login').getValue(2, 3)</defaultValue>
+      <description></description>
+      <id>f5fe00a7-0228-4852-b663-febb49842337</id>
+      <masked>false</masked>
+      <name>DataInvalidPassword</name>
+   </variable>
+</TestCaseEntity>

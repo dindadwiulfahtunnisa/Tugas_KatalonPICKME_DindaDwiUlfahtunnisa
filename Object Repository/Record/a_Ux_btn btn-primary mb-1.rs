@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ux_btn btn-primary mb-1</name>
+   <tag></tag>
+   <elementGuidId>065461ad-985d-48b0-a192-5d9c6ca69e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;openEditForm('UH182')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td > div.card.rounded-5.talent-list-card.my-1.mx-1 > div.row.justify-content-end.align-items-center.mr-3 > a.btn.btn-primary.mb-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Profile Image kristina Natasia Sinurat DATA ENTRI Ux  &quot;i] >> a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1e68ece2-a57d-458d-9566-43f83b0aaa72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mb-1</value>
+      <webElementGuid>62f8238f-7e88-4fcf-bfa7-af793cbb065e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>openEditForm('UH182')</value>
+      <webElementGuid>5a93441d-77b6-49ae-95df-1d8710a4d785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;talentTbl&quot;)/tr[2]/td[1]/div[@class=&quot;card rounded-5 talent-list-card my-1 mx-1&quot;]/div[@class=&quot;row justify-content-end align-items-center mr-3&quot;]/a[@class=&quot;btn btn-primary mb-1&quot;]</value>
+      <webElementGuid>a16589ab-81b5-4cb3-b547-e0fb862a7d40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;openEditForm('UH182')&quot;]</value>
+      <webElementGuid>aaf22a2b-f655-4f70-a77f-5a409632b75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='talentTbl']/tr[2]/td/div/div[3]/a</value>
+      <webElementGuid>d6eea00d-db3b-4f58-b361-b8e41b632099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ux'])[2]/following::a[1]</value>
+      <webElementGuid>e8f98967-cecf-4f37-a1ab-dd0abebb390e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kristina Natasia Sinurat'])[1]/following::a[1]</value>
+      <webElementGuid>b00692b9-db38-4b1e-a679-1639d9eb5e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOCHAMMAD ERVINDA YUDISTIRA'])[1]/preceding::a[2]</value>
+      <webElementGuid>973cf22a-2f89-4846-b76f-036b6e2d93ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='It Support'])[2]/preceding::a[2]</value>
+      <webElementGuid>8353d61a-8671-4307-92a4-083b6b4eac7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div[3]/a</value>
+      <webElementGuid>d69e844e-ce08-4b08-abf3-4f1547130591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

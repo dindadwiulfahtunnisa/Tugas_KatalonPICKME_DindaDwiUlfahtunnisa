@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Data_1_2</name>
+   <tag></tag>
+   <elementGuidId>5be11a2d-1d22-4708-b419-1c1e96bb58e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAddSectionWork']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddSectionWork</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnAddSectionWork</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f978344-d8c2-4c5c-b22d-b1f884eb9fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddSectionWork</value>
+      <webElementGuid>6a5e7855-a68b-4bf1-8f7e-7ab82b35be1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary p-2</value>
+      <webElementGuid>e2d84b6d-c831-4361-9fa0-8528bcc29b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>autoSave()</value>
+      <webElementGuid>11509830-a304-4ac0-8214-b2a690a33083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             Tambah Data
+                                        </value>
+      <webElementGuid>df22d3bd-fcf1-4bb9-8ce4-622ac19fb074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddSectionWork&quot;)</value>
+      <webElementGuid>9c3ddd60-7f84-4124-aba7-6769c31f1c31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnAddSectionWork']</value>
+      <webElementGuid>92b692b8-5380-4955-8903-93a130a90d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[5]/div[2]/div/a</value>
+      <webElementGuid>dca9119e-ce2f-4f88-a4a1-e45aa531dd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pekerjaan'])[1]/following::a[1]</value>
+      <webElementGuid>04ba82bf-9668-478b-8b0f-7e4a86a24bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[1]/preceding::a[1]</value>
+      <webElementGuid>89ef4cf6-1540-466f-8f00-cfd74c192aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'autoSave()')])[4]</value>
+      <webElementGuid>cfd37299-fc2a-4546-8005-98976c975553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/a</value>
+      <webElementGuid>b611caf7-6b8f-46be-89d3-4ea9d7ef35ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnAddSectionWork' and @href = 'autoSave()' and (text() = '
+                                             Tambah Data
+                                        ' or . = '
+                                             Tambah Data
+                                        ')]</value>
+      <webElementGuid>6042eff3-1c3d-4bd7-80ac-fc3559f49485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Perusahaan_inputCompanyName--1</name>
+   <tag></tag>
+   <elementGuidId>e953fba8-f105-4ac1-88a6-37d3dcd19c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputCompanyName--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputCompanyName--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputCompanyName--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b159d075-0bef-484f-bd2c-963ef0f13e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseWork--1</value>
+      <webElementGuid>834adf4c-c7dd-4341-ab65-9298b49dc9a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>2e2f020c-b78c-4290-9230-f8a620d92f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputCompanyName--1</value>
+      <webElementGuid>6ddbe041-1a3d-4eec-b987-cb6362940faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fafbe3fb-223f-411c-bb40-689fe21554e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>92080535-6219-41a2-9484-1c5f3f755317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtCompanyName--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtCompanyNameFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtCompanyNameFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtCompanyName--1').text(' at ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtCompanyNameFrame--1').text(' at ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtCompanyNameFrame--1').text(' at ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                }
+                    isWorkValueBlank(); autoSave(); validateRequire($(this))</value>
+      <webElementGuid>3a4d88d9-e672-4cc2-99af-82581e916542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputCompanyName--1&quot;)</value>
+      <webElementGuid>27378b1c-4cea-46e0-a8de-2e3464c87514</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputCompanyName--1']</value>
+      <webElementGuid>4999b036-ee86-4b7d-be39-f2ec732e8267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseWork--1']/div[2]/div/input[2]</value>
+      <webElementGuid>653e8806-e972-4ae1-9836-884a3208f854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div[2]/div/input[2]</value>
+      <webElementGuid>1ea7e8da-e82c-4fcc-b9ac-ffbed3e7dc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputCompanyName--1' and @type = 'text']</value>
+      <webElementGuid>2853d815-0781-414b-b348-503dec5da70a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

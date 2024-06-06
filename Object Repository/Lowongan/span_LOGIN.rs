@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LOGIN</name>
+   <tag></tag>
+   <elementGuidId>c593c137-15f0-41c0-a499-9c42e59d99c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarText']/ul/li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.ml-auto > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;LOGIN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74da8e41-ec94-4d30-bbe0-2b48ef5833cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LOGIN</value>
+      <webElementGuid>80b299e0-e65f-4957-b4b2-f2f7982f11bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav nav ml-auto&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;btn btn-outline-primary ml-auto&quot;]/span[1]</value>
+      <webElementGuid>7920aadb-8a67-487a-bdea-df007652b451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarText']/ul/li[5]/a/span</value>
+      <webElementGuid>cde0bab2-81b0-44a3-9b2c-a05abbe034a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::span[1]</value>
+      <webElementGuid>89a7c709-9d0c-49ef-ab95-1b4346a6cefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::span[1]</value>
+      <webElementGuid>46023d34-546d-4159-b135-a5bf09ab6935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/preceding::span[1]</value>
+      <webElementGuid>be431be2-cbb9-445b-996b-7c90991a4874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LOGIN']/parent::*</value>
+      <webElementGuid>20b15bdc-042e-4906-b2fc-60e884b0da28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>29986822-b3a4-4556-9ee8-108cfa361b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LOGIN' or . = 'LOGIN')]</value>
+      <webElementGuid>5599c83a-93b9-42c9-bbef-35350ca2e2b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

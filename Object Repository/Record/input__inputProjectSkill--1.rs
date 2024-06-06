@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__inputProjectSkill--1</name>
+   <tag></tag>
+   <elementGuidId>ebe98415-6eac-4054-b64d-b55ecec45956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputProjectSkill--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputProjectSkill--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputProjectSkill--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7f077138-23a1-4185-b70b-1b41433da29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseProject--1</value>
+      <webElementGuid>f21f3d31-a1bb-4419-a919-d8a4a967b92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e154c609-03cd-4ce3-b57d-30d73c8f3745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputProjectSkill--1</value>
+      <webElementGuid>5805b61d-4698-491d-9dde-8bc867383615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c545ccba-cbc8-4191-862a-f6038244ae64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>f17cdf17-f578-4f9b-854f-56c8a776deaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtProjectSkill--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtProjectSkillFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtProjectSkillFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtProjectSkill--1').html('&lt;b>Skills:&lt;/b> ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); });
+                    $('#frame').contents().find('#txtProjectSkillFrame--1').html('&lt;b>Skills:&lt;/b> ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); });
+                    $('#txtProjectSkillFrame--1').html('&lt;b>Skills:&lt;/b> ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); });
+                  }
+                  isProjectValueBlank(); autoSave(); validateRequire($(this))</value>
+      <webElementGuid>e36bfd91-8fe2-41ae-b5ef-9ec99f61b820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputProjectSkill--1&quot;)</value>
+      <webElementGuid>5fba05c0-ba90-435f-a28d-4ae551f12614</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputProjectSkill--1']</value>
+      <webElementGuid>08accfd9-e743-43ae-ba82-b4f11add085e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseProject--1']/div[6]/div/input</value>
+      <webElementGuid>879e583f-a9c4-4898-8ed2-211fddc9174e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div[6]/div/input</value>
+      <webElementGuid>9894981f-f344-4dab-94a1-1e1d9f7cec04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputProjectSkill--1' and @type = 'text']</value>
+      <webElementGuid>f7c0d827-c5f0-4b92-85e3-ffba4160368f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

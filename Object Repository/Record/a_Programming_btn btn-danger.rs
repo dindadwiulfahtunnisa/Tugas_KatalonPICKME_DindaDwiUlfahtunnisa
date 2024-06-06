@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Programming_btn btn-danger</name>
+   <tag></tag>
+   <elementGuidId>cc67cb48-be66-4afc-a548-2dcb15e53050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;deleteForm('UH181')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Profile Image DINDA DWI - Programming  &quot;i] >> a >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7eea1de9-6ccb-43ad-ab6e-0aece139bb5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>a22ab01f-3c36-46be-a508-2147e490ab63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>deleteForm('UH181')</value>
+      <webElementGuid>3f2b5420-b399-4ca6-9e48-d6828326372c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;talentTbl&quot;)/tr[1]/td[1]/div[@class=&quot;card rounded-5 talent-list-card my-1 mx-1&quot;]/div[@class=&quot;row justify-content-end align-items-center mr-3&quot;]/a[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>5d89d46a-ced8-4719-a41a-4e71984107aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;deleteForm('UH181')&quot;]</value>
+      <webElementGuid>935e5e75-dc4b-48ab-9a93-a704903a0d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='talentTbl']/tr/td/div/div[3]/a[2]</value>
+      <webElementGuid>d3f3d1c1-82c5-4ef1-ac9a-edb0f5ddd990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programming'])[3]/following::a[2]</value>
+      <webElementGuid>8cdf4208-4691-4aa4-9568-2f80f7ecb62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DINDA DWI'])[1]/following::a[2]</value>
+      <webElementGuid>784a01b8-6ace-4f83-9548-b46d83d22aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kristina Natasia Sinurat'])[1]/preceding::a[1]</value>
+      <webElementGuid>a47ada37-c509-40bf-9166-e7e7014d6c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ux'])[2]/preceding::a[1]</value>
+      <webElementGuid>4fe1c6be-ce99-4387-9a1c-87d629f51c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]</value>
+      <webElementGuid>81cea84d-ba19-480c-a808-6ff90533c7bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

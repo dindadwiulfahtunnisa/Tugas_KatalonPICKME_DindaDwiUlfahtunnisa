@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih</name>
+   <tag></tag>
+   <elementGuidId>7ea986d0-63b7-43e5-98be-a414171012b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='talentTableBody']/tr[2]/td[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(4) > button.btn.btn-primary.btn-sm.select-talent-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;DINDA DWI ULFAHTUNNISA PHP Pilih&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fee1534f-582c-4f65-9914-a98e10d7f858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm select-talent-button</value>
+      <webElementGuid>a3775706-0210-4ef9-b8be-87360d77d59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih</value>
+      <webElementGuid>b9a5577e-e20a-44be-9ebb-2273c3e865b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;talentTableBody&quot;)/tr[2]/td[4]/button[@class=&quot;btn btn-primary btn-sm select-talent-button&quot;]</value>
+      <webElementGuid>d6898b26-b4dd-4eaa-9e6d-ee1bb89eebc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='talentTableBody']/tr[2]/td[4]/button</value>
+      <webElementGuid>913c331e-cb0a-46b7-8da8-da0bf7dc931d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PHP'])[1]/following::button[1]</value>
+      <webElementGuid>c3ea9e43-619c-44a5-8009-48cb6f805b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DINDA DWI ULFAHTUNNISA'])[1]/following::button[1]</value>
+      <webElementGuid>a0e9784b-de48-4a2a-8e99-5850be686d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
+      <webElementGuid>98adcae8-207f-43a4-a027-af5e104e66a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::button[2]</value>
+      <webElementGuid>fc4adc82-ed4b-4474-800e-85fa03fcf649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/button</value>
+      <webElementGuid>832b62f5-b06a-4e88-ac91-129948410cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>637275a4-da1a-485a-851b-eb4cfae15bb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_004 - Quality Assurance</name>
+   <tag></tag>
+   <elementGuidId>0f9c949f-588a-483c-9c38-a83d5fe59bde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jobDetail']/div/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;004 - Quality Assurance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d99bcbb8-fc8a-473d-a12b-e0739d559492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bold</value>
+      <webElementGuid>90546781-690d-499a-b3ab-50fe85d1d940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>004 - Quality Assurance</value>
+      <webElementGuid>bbffc30d-97c1-46aa-8281-805034ad4944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobDetail&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 mb-2&quot;]/div[@class=&quot;card rounded-3&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card-title text-left&quot;]/p[@class=&quot;fw-bold&quot;]</value>
+      <webElementGuid>52620f07-3e63-45db-9349-42dfddfa7ada</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobDetail']/div/div/div/div/div/p</value>
+      <webElementGuid>f7e7191b-f8b6-45e4-9ccf-939f290a5db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Tidak Ditemukan'])[1]/following::p[1]</value>
+      <webElementGuid>34407b48-8d8d-44d9-a7d6-00192d6d248a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requirements:'])[1]/preceding::p[4]</value>
+      <webElementGuid>a6af50a1-2daf-4e19-8eb7-34b93a3bd9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::p[14]</value>
+      <webElementGuid>d5bb328c-7f95-4a55-a30e-5661c89e4b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='004 - Quality Assurance']/parent::*</value>
+      <webElementGuid>c2ec2a4f-d000-4fcc-b379-9a956ad1c543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>be5e178a-490b-498d-bc4c-7bdb301ebc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '004 - Quality Assurance' or . = '004 - Quality Assurance')]</value>
+      <webElementGuid>d7ce1f4e-62c4-4e4d-a3ed-22fc6ed04488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

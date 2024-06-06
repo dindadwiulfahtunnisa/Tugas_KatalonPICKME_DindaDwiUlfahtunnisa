@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Data_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>1616d772-5a1f-4482-9d69-ff908fe5b153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAddSectionAward']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddSectionAward</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnAddSectionAward</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cfd629b1-7ff9-481e-b573-627346efa400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddSectionAward</value>
+      <webElementGuid>4d918ade-fd83-41c8-ae94-7c28325334c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary p-2</value>
+      <webElementGuid>828ca84f-aaa0-4842-8cbd-509fe3d5fd2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>autoSave()</value>
+      <webElementGuid>3ca74d8f-fc52-4afa-adb8-57e6df2a18f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             Tambah Data
+                                        </value>
+      <webElementGuid>dc9e2804-f1bd-472d-a243-f12870e1939c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddSectionAward&quot;)</value>
+      <webElementGuid>da19ca83-8393-4d52-9c3b-78c7df691a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnAddSectionAward']</value>
+      <webElementGuid>01ffd702-c836-4d3b-8c31-a864bc47db30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[11]/div[2]/div/a</value>
+      <webElementGuid>14b3c45a-b006-4221-8289-2821ae2cb0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penghargaan/Prestasi'])[1]/following::a[1]</value>
+      <webElementGuid>dde4a016-4fd4-41d3-bc8b-38255d1588d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'autoSave()')])[10]</value>
+      <webElementGuid>06944747-2345-43ec-8dc7-96582830b576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/a</value>
+      <webElementGuid>1e50e7f8-819e-4aca-8ffb-9093756e5c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnAddSectionAward' and @href = 'autoSave()' and (text() = '
+                                             Tambah Data
+                                        ' or . = '
+                                             Tambah Data
+                                        ')]</value>
+      <webElementGuid>e4d52ca4-ed5e-4d9c-93c7-5a69a6ab9c41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

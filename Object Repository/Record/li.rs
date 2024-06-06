@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li</name>
+   <tag></tag>
+   <elementGuidId>3c12f28c-8b44-4373-8ce7-ed50e80b6daa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseProject--1']/div[3]/div/div/div[3]/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapseProject--1 > div.row > div.form-group.col-md-12 > div.note-editor.note-frame.panel.panel-default > div.note-editing-area > div.note-editable > ul > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#collapseProject--1 >> internal:role=listitem</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>624ec086-e765-494b-9912-7663121b6c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseProject--1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-md-12&quot;]/div[@class=&quot;note-editor note-frame panel panel-default&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-editable&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>1cd14791-e4c4-4c71-8f30-e29786718339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseProject--1']/div[3]/div/div/div[3]/div[2]/ul/li</value>
+      <webElementGuid>c2783848-c087-42db-bd27-1c916a633ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div[2]/ul/li</value>
+      <webElementGuid>f085e5a0-489b-4dbb-954b-b7962bacb360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

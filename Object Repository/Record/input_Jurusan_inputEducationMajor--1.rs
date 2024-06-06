@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jurusan_inputEducationMajor--1</name>
+   <tag></tag>
+   <elementGuidId>77ce62b3-4580-4788-b8c9-e08f3b45e75d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputEducationMajor--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputEducationMajor--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputEducationMajor--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>df39245d-66e4-4b8b-ae2c-f4bc3d61c6cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseEducation--1</value>
+      <webElementGuid>75d13a18-4532-4b8a-8a7b-81d3bacf4f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>9e200d9e-ce18-4400-a7be-05b00bb5febd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputEducationMajor--1</value>
+      <webElementGuid>e4ed1319-2548-4340-85cc-d6113d2cf362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>071cb3d4-053a-40d8-adfe-18da8d1ce18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control _autocomplete-major required ui-autocomplete-input</value>
+      <webElementGuid>c9cdf2ae-de81-42ae-bd4c-e74c18afa808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtEducationMajor--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtEducationMajorFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtEducationMajorFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtEducationMajor--1').text(' Majoring in '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtEducationMajorFrame--1').text(' Majoring in '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtEducationMajorFrame--1').text(' Majoring in '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                }
+              isEducationValueBlank(); autoSave(); validateRequire($(this), 'collapseEducation')</value>
+      <webElementGuid>b89ab7ac-24dd-49a5-a048-f442e0a4c72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputEducationMajor--1&quot;)</value>
+      <webElementGuid>4ea121d0-309e-49ad-9362-1dbe79999289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputEducationMajor--1']</value>
+      <webElementGuid>8a6a831f-f277-4e07-b431-b74e9d50d16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseEducation--1']/div[3]/div/input</value>
+      <webElementGuid>8319fb79-088f-40f2-943c-963d69b54b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>4398da1d-4527-4e3f-8eae-d62ce89d2716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputEducationMajor--1' and @type = 'text']</value>
+      <webElementGuid>16553cd9-cd44-489a-a3de-a5dc6cfe13f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

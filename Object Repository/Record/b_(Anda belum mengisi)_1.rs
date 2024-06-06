@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_(Anda belum mengisi)_1</name>
+   <tag></tag>
+   <elementGuidId>c65cfe04-3e41-4e7a-a7c2-8680c16f6b66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='txtProjectDefault--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtProjectDefault--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;• (Anda belum mengisi)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>e144c0dd-7bf9-495d-88ab-62592ef4953e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtProjectDefault--1</value>
+      <webElementGuid>63d95151-a608-4291-8e64-5f5a3c88261c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Anda belum mengisi)</value>
+      <webElementGuid>bc2f586f-4912-4dbb-973a-671ae354d73f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtProjectDefault--1&quot;)</value>
+      <webElementGuid>f43ccdec-8944-45d1-bb79-46e982ff7f92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='txtProjectDefault--1']</value>
+      <webElementGuid>0d399dbb-c5a9-41c7-8659-766e8b6bf48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionProjectCollapse--1']/div/b[2]</value>
+      <webElementGuid>2b1d4bd3-e231-4da9-9889-12fa9d8653d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[3]/following::b[2]</value>
+      <webElementGuid>112064e6-5333-41e4-8378-a18d4cae7b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Project'])[1]/preceding::b[1]</value>
+      <webElementGuid>c2b7a218-1785-4a38-8ac5-1dfbd59c9815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga / Perusahaan'])[1]/preceding::b[1]</value>
+      <webElementGuid>a5e6ffef-6df6-4686-ad85-46fef39bff6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/b[2]</value>
+      <webElementGuid>3015105d-9816-43c9-94d4-a924de7e1c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'txtProjectDefault--1' and (text() = '(Anda belum mengisi)' or . = '(Anda belum mengisi)')]</value>
+      <webElementGuid>86c41b13-0862-4608-a804-2e2a69926f61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

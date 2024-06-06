@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_IPK_inputEducationGpa--1</name>
+   <tag></tag>
+   <elementGuidId>5a5633c0-c728-450c-af9e-9bbd51aff359</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputEducationGpa--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputEducationGpa--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputEducationGpa--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ffc5deab-3ce6-4b2c-bc6b-f9a4e85f0a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseEducation--1</value>
+      <webElementGuid>0a58776a-b00d-4975-a0d1-f51165e28c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputEducationGpa--1</value>
+      <webElementGuid>ee2eb53a-cb4e-4366-bf81-e3d88bacfee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>62f3a04f-8fdf-4f22-a25d-7e67c03ecdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>e2bcf20d-e3c9-4543-8cb9-e676dd61b02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9267ac7b-0ccf-448b-b7aa-62de0e4aa9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>dd1674da-0735-42c8-a0f9-02d1403d11db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>0.1</value>
+      <webElementGuid>cb936200-9627-4e27-bc37-c6bfaafd8a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtEducationGpa--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtEducationGpaFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtEducationGpaFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtEducationGpa--1').text(' GPA '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtEducationGpaFrame--1').text(' GPA '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtEducationGpaFrame--1').text(' GPA '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                }
+                isEducationValueBlank(); autoSave(); validateRequire($(this), 'collapseEducation'); validateMinMaxValue($(this), 0, 4)</value>
+      <webElementGuid>cd6eb83f-0936-4ae8-a8d0-26c35ac2d496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputEducationGpa--1&quot;)</value>
+      <webElementGuid>f19af30c-2d0e-40ed-bf71-0002aa9d6e14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputEducationGpa--1']</value>
+      <webElementGuid>6afce122-bf8e-4365-82e6-01df6d00ac5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseEducation--1']/div[3]/div[2]/input</value>
+      <webElementGuid>2467e6bf-9f81-4f09-9310-c7069426cd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/input</value>
+      <webElementGuid>54f99a12-038e-4056-882b-c08fd9026dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputEducationGpa--1' and @type = 'number']</value>
+      <webElementGuid>5b4d7ff4-ae69-421f-abd3-6467e78536d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

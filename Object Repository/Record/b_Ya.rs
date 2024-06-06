@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Ya</name>
+   <tag></tag>
+   <elementGuidId>8c827ad2-ef0f-4b5c-84d1-2ef44a022732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='question']/div/div[2]/button/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.iziToast-buttons-child.revealIn > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Ya&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>6113f38b-c5ec-41fe-afa4-ffbff736bc08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya</value>
+      <webElementGuid>a3ac5f11-8f56-49f4-a337-8a4ccf73fe19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;question&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-buttons&quot;]/button[@class=&quot;iziToast-buttons-child revealIn&quot;]/b[1]</value>
+      <webElementGuid>f3982805-2852-41d0-a647-a6b19d03149c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='question']/div/div[2]/button/b</value>
+      <webElementGuid>84910edc-d9d9-4a99-b482-dfa4f94dec8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Word'])[1]/following::b[1]</value>
+      <webElementGuid>6f6fd100-48e4-4947-9401-89939842faac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::b[1]</value>
+      <webElementGuid>ff55e405-083d-4eaa-a5fd-dbfc5acd859a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::b[1]</value>
+      <webElementGuid>c258b8b5-ee0f-449b-9134-5d74c70ff0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
+      <webElementGuid>697204c5-9c11-4b97-9772-93218edd640f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/b</value>
+      <webElementGuid>54c9a760-51b2-4811-89f2-6896625bc374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>3dc6bdde-4a06-4cca-8095-13664cf56a2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

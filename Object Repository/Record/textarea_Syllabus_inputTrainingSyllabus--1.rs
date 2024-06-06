@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Syllabus_inputTrainingSyllabus--1</name>
+   <tag></tag>
+   <elementGuidId>d6a20ee9-6a41-4e32-b8e6-0007a0a6ae55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='inputTrainingSyllabus--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputTrainingSyllabus--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputTrainingSyllabus--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>21788fc9-ef78-4b65-a710-3d18c85f37e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseTraining--1</value>
+      <webElementGuid>7222d4af-6657-499c-ad80-cfa50803eb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>071ab39c-f93f-4916-b9df-4113c56967bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputTrainingSyllabus--1</value>
+      <webElementGuid>483e5b4e-866e-4c1f-9ed9-01f4ebfceac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>548a898e-0ff1-49d4-b630-578fde67a5d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+              if($(this).val() === ''){
+                  $('#txtTrainingSyllabus--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                  $('#frame').contents().find('#txtTrainingSyllabusFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                  $('#txtTrainingSyllabusFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+              } else {      
+                  $('#txtTrainingSyllabus--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                  $('#frame').contents().find('#txtTrainingSyllabusFrame--1').text(', '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                  $('#txtTrainingSyllabusFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+              }
+              isTrainingValueBlank(); autoSave();</value>
+      <webElementGuid>fa6c9981-f75c-418f-ac85-ccff716d66e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputTrainingSyllabus--1&quot;)</value>
+      <webElementGuid>620f9d44-740b-40bb-b11e-337a3ce75520</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='inputTrainingSyllabus--1']</value>
+      <webElementGuid>eed56ed7-0cef-40a0-9692-4fb65c075d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseTraining--1']/div[3]/textarea</value>
+      <webElementGuid>bde8137d-11be-4cf9-982a-b9be0450b407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/textarea</value>
+      <webElementGuid>2cc5ea5c-6073-424b-8ba6-b5290abf7569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'inputTrainingSyllabus--1']</value>
+      <webElementGuid>82721b26-d163-4163-ba18-28bf431fcaf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

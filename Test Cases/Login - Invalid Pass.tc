@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Invalid Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00780dcc-0af8-4564-b347-082cfc8f9c36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9c2ca5d-9357-47e9-8126-48999d8ca1b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68878f4f-4ad5-4cd3-934a-7ce4b313bc7b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data Login').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>e9c2ca5d-9357-47e9-8126-48999d8ca1b5</id>
+      <masked>false</masked>
+      <name>DataInvalidUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Login').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>68878f4f-4ad5-4cd3-934a-7ce4b313bc7b</id>
+      <masked>false</masked>
+      <name>DataInvalidPassword</name>
+   </variable>
+</TestCaseEntity>

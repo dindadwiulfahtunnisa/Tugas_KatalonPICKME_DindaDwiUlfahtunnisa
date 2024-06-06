@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__inputCertificationInstitute--1</name>
+   <tag></tag>
+   <elementGuidId>c458f86e-9df9-4789-a917-6ee9cc470b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputCertificationInstitute--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputCertificationInstitute--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputCertificationInstitute--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>50bedb1e-41c6-4434-9ce7-bec28bf58b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseCertification--1</value>
+      <webElementGuid>f95514b6-ed79-449c-8b09-292bcc913e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>c4b8b863-07fb-43eb-8a4b-e8e7f550e313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputCertificationInstitute--1</value>
+      <webElementGuid>cc28f810-5e56-48c3-aae0-6fcf47f30288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9f5f30da-8e42-49ce-bbaf-42bae1e9dfcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>3bb8f673-6bde-4efb-a145-d8d0461f532e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtCertificationInstitute--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtCertificationInstituteFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtCertificationInstituteFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtCertificationInstitute--1').text(' from ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtCertificationInstituteFrame--1').text(' from ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtCertificationInstituteFrame--1').text(' from ' + $(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                }
+                isCertificationValueBlank(); autoSave(); validateRequire($(this))</value>
+      <webElementGuid>953e5a68-02e0-4183-9158-0d95297966bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputCertificationInstitute--1&quot;)</value>
+      <webElementGuid>7c41b1b6-8c42-4133-acc9-e922cf841c9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputCertificationInstitute--1']</value>
+      <webElementGuid>81e0e58d-be1c-435b-a33b-76b1898e4213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseCertification--1']/div[3]/div/input</value>
+      <webElementGuid>524d951b-3197-4669-8ff5-4b0d39c6997d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>313dcbd8-5338-45a4-8af3-26d80722e251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputCertificationInstitute--1' and @type = 'text']</value>
+      <webElementGuid>e64749ff-ffc3-48af-924f-1f0dde94fbf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

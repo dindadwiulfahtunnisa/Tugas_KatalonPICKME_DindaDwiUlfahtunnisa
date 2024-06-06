@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_lembaga_inputAwardInstitute--1</name>
+   <tag></tag>
+   <elementGuidId>52cc03e1-34e2-49dc-a830-ae137661f98d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputAwardInstitute--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputAwardInstitute--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputAwardInstitute--1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>38fdd8bf-d8d1-402d-8d77-fad57fcbfce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>#collapseAward--1</value>
+      <webElementGuid>4f4c5528-a36e-4e9f-9078-59e187a8cc5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>1754c151-ebfa-47a4-b38c-f78af085f579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputAwardInstitute--1</value>
+      <webElementGuid>7a485f2b-c3f6-41e5-a973-473a25b36ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>44346a93-30fc-441c-8a1b-43af799fe827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>966f628b-a51a-42ec-a96f-14a7b322d01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>
+                if($(this).val() === ''){
+                    $('#txtAwardInstitute--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtAwardInstituteFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtAwardInstituteFrame--1').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                } else {
+                    $('#txtAwardInstitute--1').text(' from '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#frame').contents().find('#txtAwardInstituteFrame--1').text(' from '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                    $('#txtAwardInstituteFrame--1').text(' from '+$(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                }
+                isAwardValueBlank(); autoSave(); validateRequire($(this))</value>
+      <webElementGuid>1ae0d715-422b-4b2c-9028-92624bb2fac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputAwardInstitute--1&quot;)</value>
+      <webElementGuid>efb4f933-d75f-4f93-a242-d4f1f1d40167</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputAwardInstitute--1']</value>
+      <webElementGuid>3d3a865b-811c-4609-96f0-ed572b027238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseAward--1']/div[3]/div/input</value>
+      <webElementGuid>129fe265-f511-4d25-bfe8-a02f07af3483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>a827d998-1a3f-4389-bca5-e707ba63b11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputAwardInstitute--1' and @type = 'text']</value>
+      <webElementGuid>00aac13a-051b-49f6-95a1-85d4c1f441f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_(Anda belum mengisi)_1_2</name>
+   <tag></tag>
+   <elementGuidId>2620b476-d8e4-4667-bda2-50e1a7d048c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='txtTrainingDefault--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtTrainingDefault--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;• (Anda belum mengisi)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>df8c1d94-6c74-40bb-a5c9-db1335b84867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtTrainingDefault--1</value>
+      <webElementGuid>299ff8d4-83d0-40ce-8890-d310f418d5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Anda belum mengisi)</value>
+      <webElementGuid>91a4e676-8e7d-4ab9-b5a3-11e1b21fca87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtTrainingDefault--1&quot;)</value>
+      <webElementGuid>17c6c35e-e170-4854-915c-ac7e92b93e2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='txtTrainingDefault--1']</value>
+      <webElementGuid>2fed420b-5c30-47f0-956f-5b791780a83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionTrainingCollapse--1']/div/b[2]</value>
+      <webElementGuid>433a6a80-d083-4d6e-af80-58f8e639f18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelatihan'])[1]/following::b[2]</value>
+      <webElementGuid>3cbabe0f-442a-47c8-a0b5-5284267a74e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pelatihan'])[1]/preceding::b[1]</value>
+      <webElementGuid>2c499e13-52e6-4069-aa62-abb4c5dfcdd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan - Tahun'])[1]/preceding::b[1]</value>
+      <webElementGuid>6ad38307-7ce1-4974-a0e9-0b4e54b0fcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/b[2]</value>
+      <webElementGuid>7b9474e0-6bb3-4026-9f55-d6e5ef0a98bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'txtTrainingDefault--1' and (text() = '(Anda belum mengisi)' or . = '(Anda belum mengisi)')]</value>
+      <webElementGuid>bc978de7-8081-4809-babc-fd07ddd7250f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

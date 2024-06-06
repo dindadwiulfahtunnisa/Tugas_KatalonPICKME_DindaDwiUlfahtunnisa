@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kembali</name>
+   <tag></tag>
+   <elementGuidId>70298221-60bb-4fe5-a647-cdd2fb859caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[12]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.float-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Kembali&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac3370c5-dc5e-47b2-98a0-b4521e7cce96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary float-left</value>
+      <webElementGuid>a9e45064-be5a-465e-9391-70173b8bef38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mitra/redirect-pickme</value>
+      <webElementGuid>cc766b77-72a9-497b-b0a0-8fd01e87b4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                     Kembali
+                                </value>
+      <webElementGuid>7fb5514c-9643-4bed-b233-32b9aaffcf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;card-footer&quot;]/a[@class=&quot;btn btn-outline-primary float-left&quot;]</value>
+      <webElementGuid>098204e7-7d19-46c6-bed6-59cd03755c2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[12]/a</value>
+      <webElementGuid>a511f5ce-1b75-4af5-957e-18ee8aa6926d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Data'])[10]/following::a[1]</value>
+      <webElementGuid>5e0b579c-54e5-41d5-bcdf-2a2d21f1878c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Perubahan'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd73ba91-3411-4469-9440-ab9b76462908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview CV'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9735a49-a568-44bc-916a-fb1f3b0ff9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembali']/parent::*</value>
+      <webElementGuid>f6935c54-7be3-4cad-b118-c842018be8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mitra/redirect-pickme')]</value>
+      <webElementGuid>c29d78cb-733a-4a75-a1e1-1db49dab089a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/a</value>
+      <webElementGuid>271bfc98-ec2d-4f60-bf74-151f2f5bc67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mitra/redirect-pickme' and (text() = '
+                                     Kembali
+                                ' or . = '
+                                     Kembali
+                                ')]</value>
+      <webElementGuid>8f6c8130-b965-42fd-b203-018f9ed76c5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

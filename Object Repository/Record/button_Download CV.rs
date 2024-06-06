@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Download CV</name>
+   <tag></tag>
+   <elementGuidId>6f43aba0-1bbc-43ba-9135-8729e3e486fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnDownloadCv']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnDownloadCv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Download CV&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38f4f309-89b9-43a4-b453-8994a47a6fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnDownloadCv</value>
+      <webElementGuid>61881ef7-088d-458b-b803-efbf2bcbf70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>ed67b54c-f705-4c0f-9d1f-7e49aa8801f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>341fe1a7-2b36-41ea-aed6-7944e76ba18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modalDownload</value>
+      <webElementGuid>91b0121d-69c8-4e10-a13f-cc119164aa66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                     Download CV
+                                </value>
+      <webElementGuid>8610688a-75cd-43d3-afa6-3176117f9673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnDownloadCv&quot;)</value>
+      <webElementGuid>fd0de401-a082-4d74-9f30-3f4f34858296</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnDownloadCv']</value>
+      <webElementGuid>af548d1c-c8f3-4a2d-b863-5ecc4667e7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='downloadMitra']/button</value>
+      <webElementGuid>3ac0f179-f33d-4635-8a71-7f4cf6897e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview CV'])[1]/following::button[1]</value>
+      <webElementGuid>e5003cb8-0ac0-46dc-8fbb-2ae4dcd695d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Perubahan'])[1]/following::button[2]</value>
+      <webElementGuid>269afda5-22ba-4f1e-b660-e785801785f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[13]/preceding::button[2]</value>
+      <webElementGuid>6e288aac-b707-4790-b7ac-b1c3c785ecba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DINDA DWI ULFAHTUNNISA'])[1]/preceding::button[3]</value>
+      <webElementGuid>b055b9da-60ca-47d7-bb2f-c957fcbfa7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download CV']/parent::*</value>
+      <webElementGuid>e7a01881-9564-4ad8-8e4c-f0d605ff2ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>0830fb45-90a8-40c8-8828-b45d3d94d497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnDownloadCv' and (text() = '
+                                     Download CV
+                                ' or . = '
+                                     Download CV
+                                ')]</value>
+      <webElementGuid>dac44bf9-064a-4ba6-a7ac-1b0bf83f98f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

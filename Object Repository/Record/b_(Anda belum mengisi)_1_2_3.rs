@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_(Anda belum mengisi)_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>e888b581-fca4-42d7-8f1d-fb850f053c4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='txtCertificationDefault--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtCertificationDefault--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;• (Anda belum mengisi)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ee2edac5-7cb6-4807-8cf5-cbb5799b3add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtCertificationDefault--1</value>
+      <webElementGuid>8a4e8f75-62cd-4391-a57d-2072c15b9af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Anda belum mengisi)</value>
+      <webElementGuid>e9efbfb9-42f2-477d-a466-b84f4a8f696a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtCertificationDefault--1&quot;)</value>
+      <webElementGuid>b4fd5715-001f-4285-80c2-852111bd6ac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='txtCertificationDefault--1']</value>
+      <webElementGuid>ec8d3f04-bfe7-4ffd-bc58-1ffe494f0847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionCertificationCollapse--1']/div/b[2]</value>
+      <webElementGuid>5b015f9e-a4be-4aa5-9dc5-2fd4d2a3023d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sertifikasi'])[1]/following::b[2]</value>
+      <webElementGuid>f6a0a790-1808-41dc-86fc-eaad35068167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/preceding::b[1]</value>
+      <webElementGuid>b069d297-f2d7-4017-a8ac-e5e5f1485f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/b[2]</value>
+      <webElementGuid>6bc813bf-2b15-4bb6-bd9c-3ee3802ca4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'txtCertificationDefault--1' and (text() = '(Anda belum mengisi)' or . = '(Anda belum mengisi)')]</value>
+      <webElementGuid>442232d7-3973-41c6-b1c2-6df3d83e46a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

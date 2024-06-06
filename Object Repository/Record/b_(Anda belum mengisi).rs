@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_(Anda belum mengisi)</name>
+   <tag></tag>
+   <elementGuidId>ee7a6234-7ba9-4e3f-916c-e4153041ca57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='txtEducationDefault--1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtEducationDefault--1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;• (Anda belum mengisi)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>7e20c4a9-0e7b-4bab-916e-6792ade9021c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtEducationDefault--1</value>
+      <webElementGuid>b0fdd31f-0658-4b74-a929-4b200caa00e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Anda belum mengisi)</value>
+      <webElementGuid>795cd8da-5ae7-4b26-9228-70d371714d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtEducationDefault--1&quot;)</value>
+      <webElementGuid>c375d815-7eb0-4e60-80d5-5294792995ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='txtEducationDefault--1']</value>
+      <webElementGuid>374218e7-331a-4f46-8d38-d3199b7faff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionEducationCollapse--1']/div/b[4]</value>
+      <webElementGuid>887bea9b-58e2-4f3f-a52c-e32c0bf605ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::b[4]</value>
+      <webElementGuid>fc786339-5a3a-43d6-97ed-aa26b23138e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Universitas / Sekolah'])[1]/preceding::b[1]</value>
+      <webElementGuid>171d894c-24d8-453e-b0a0-05e918312ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenjang'])[1]/preceding::b[1]</value>
+      <webElementGuid>fd062bdf-d175-4b42-a486-f0d0dbb892eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b[4]</value>
+      <webElementGuid>cbc54438-49a6-420a-b3d2-3811f965dc2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'txtEducationDefault--1' and (text() = '(Anda belum mengisi)' or . = '(Anda belum mengisi)')]</value>
+      <webElementGuid>7d7289ee-39ca-494c-8b9d-4c1a88ee0ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
